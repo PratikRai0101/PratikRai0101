@@ -102,6 +102,17 @@ I live in the terminal. My workflow is optimized for speed and system-level cont
 
 <br>
 
+<h3 align="center">📊 The Metrics</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raipratik0101&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=raipratik0101&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raipratik0101&theme=tokyonight&hide_border=true&layout=compact" />
+</div>
+
+<br>
+
 <div align="center">
   <i>"To be the change, you must first build the infrastructure."</i>
 </div>

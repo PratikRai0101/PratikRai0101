@@ -104,7 +104,7 @@ I live in the terminal. My workflow is optimized for speed and system-level cont
 
 <h3 align="center">📊 The Metrics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PratikRai0101&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Pratik's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PratikRai0101&theme=tokyonight&hide_border=true&show_icons=true" alt="Pratik's Stats" />
   <br/>
   
   <img src="https://nirzak-streak-stats.vercel.app/?user=PratikRai0101&theme=tokyonight&hide_border=true" alt="Pratik's Streak" />

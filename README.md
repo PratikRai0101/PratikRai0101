@@ -41,7 +41,7 @@
 
 ---
 
-### 🏗️ Key Architectural Projects
+### Key Projects
 * **[Enduride](https://github.com/raipratik0101)** – A ₹1,139 IoT telematics solution reducing crash alert delays to <5s using Arduino & Solidity.
 * **[Evo2 Variant Analysis](https://evo2-variant-analysis.vercel.app/)** – Decentralized genomic research using Google's Evo 2 model and BNB Chain.
 * **[DIMO (Roro Birds & Zebra Swap)](https://github.com/raipratik0101)** – Built NFT-based tournament logic and zkSync validation for 1,000+ users.
@@ -56,7 +56,7 @@ I live in the terminal. My workflow is optimized for speed and system-level cont
 
 <br>
 
-<h3 align="center">🕹️ The Contribution Arena</h3>
+<h3 align="center">Contribution Arena</h3>
 <div align="center">
   <img src="gh-space-shooter.gif" alt="GitHub Space Shooter" width="100%">
 </div>
@@ -102,7 +102,7 @@ I live in the terminal. My workflow is optimized for speed and system-level cont
 
 <br>
 
-<h3 align="center">📊 The Metrics</h3>
+<h3 align="center">Metrics</h3>
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=PratikRai0101&theme=tokyonight&hide_border=true" alt="Pratik's Streak" />
   <br/>

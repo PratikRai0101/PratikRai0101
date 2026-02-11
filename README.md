@@ -42,6 +42,7 @@
 ---
 
 ### Key Projects
+* **[OpenLog](https://open-log.vercel.app/)** – An open-source, AI-native release manager that turns raw commits into polished changelogs.
 * **[Enduride](https://github.com/raipratik0101)** – A ₹1,139 IoT telematics solution reducing crash alert delays to <5s using Arduino & Solidity.
 * **[Evo2 Variant Analysis](https://evo2-variant-analysis.vercel.app/)** – Decentralized genomic research using Google's Evo 2 model and BNB Chain.
 * **[DIMO (Roro Birds & Zebra Swap)](https://github.com/raipratik0101)** – Built NFT-based tournament logic and zkSync validation for 1,000+ users.

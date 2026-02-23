@@ -36,7 +36,7 @@
 
 ### 🏆 The Track Record
 * **Synapse Lead:** Leading a decorated team of SIH Finalists.
-* **Hackathon Veteran:** Winner of **Enduraverse** (₹100K), **HackGenX**, and **BNB Hack Kerala**. Finalist in 13+ national hackathons.
+* **Hackathon Veteran:** Winner of **Enduraverse** (₹100K), **HackGenX**, **SVPCET Hack-A-Thon** ,and **BNB Hack Kerala**. Finalist in 15+ national hackathons.
 * **IEEE CS @ YCCE:** Vice Chair, leading a community of 300+ members.
 
 ---

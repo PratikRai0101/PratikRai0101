@@ -105,5 +105,5 @@ I live in the terminal. My workflow is optimized for speed and system-level cont
 <br>
 
 <div align="center">
-  <i>"To be the change, you must first build the infrastructure."</i>
+  <i>"Everything is a bubble if you are are brave enough to burst it!"</i>
 </div>

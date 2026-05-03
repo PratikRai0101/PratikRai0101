@@ -34,7 +34,7 @@
 
 ---
 
-### 🏆 The Track Record
+### Achievements 
 * **Synapse Lead:** Leading a decorated team of SIH Finalists.
 * **Hackathon Veteran:** Winner of **Enduraverse** (₹100K), **HackGenX**, **SVPCET Hack-A-Thon** ,and **BNB Hack Kerala**. Finalist in 15+ national hackathons.
 * **IEEE CS @ YCCE:** Vice Chair, leading a community of 300+ members.
@@ -100,22 +100,6 @@ I live in the terminal. My workflow is optimized for speed and system-level cont
       </td>
     </tr>
   </table>
-</div>
-
-<br>
-
-<h3 align="center">Metrics</h3>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PratikRai0101&theme=tokyonight&hide_border=true" alt="Pratik's Streak" />
-  <br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikRai0101&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratikRai0101&theme=tokyonight" alt="Profile Details" />
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PratikRai0101&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br>

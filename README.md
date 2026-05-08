@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/user-attachments/assets/cca0438f-7a03-4995-a6b2-d849ac28c8f5" alt="Ruins Backdrop" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+
 # Pratik Rai
 
 21 · Engineer · Researcher

@@ -1,108 +1,36 @@
 <div align="center">
 
-  <h1 align="center">Pratik Rai</h1>
-  <h3 align="center">🌌 Engineering the Infrastructure of Tomorrow</h3>
+# Pratik Rai
 
-  <p align="center">
-    <a href="https://linkedin.com/in/pratikrai0101" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a> 
-    &nbsp;
-    <a href="https://x.com/PratikRai0101" target="_blank">
-      <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-    </a>
-    &nbsp;
-    <a href="https://pratikrai.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-    </a>
-    &nbsp;
-    <a href="mailto:raipratik0101@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
+21 · Engineer · Researcher
 
-  <br>
-
-  <p align="center" style="max-width: 600px;">
-    I am a Computer Science undergraduate specializing in <b>IoT, AI, and Blockchain</b> at <b>YCCE Nagpur</b>.<br>
-    My work sits at the intersection of scalable engineering and high-level foundational technology.
-  </p>
+[twitter](https://x.com/PratikRai0101) · [linkedin](https://linkedin.com/in/pratikrai0101) · [portfolio](https://pratikrai.vercel.app/) · [email](mailto:raipratik0101@gmail.com)
 
 </div>
-
-<br>
 
 ---
 
-### Achievements 
-* **Synapse Lead:** Leading a decorated team of SIH Finalists.
-* **Hackathon Veteran:** Winner of **Enduraverse** (₹100K), **HackGenX**, **SVPCET Hack-A-Thon** ,and **BNB Hack Kerala**. Finalist in 15+ national hackathons.
-* **IEEE CS @ YCCE:** Vice Chair, leading a community of 300+ members.
+◆ **my usual stack**
+* rust · python · c++ · typescript · solidity · go 
 
----
+◆ **current work**
+* **[NeoSwarm](#)** — Developing a local-first AI agent orchestrator featuring a multi-agent system and GitHub OAuth integration.
+* **[ThinkDiff-SLM](#)** — Co-authoring research on a 1B-parameter masked diffusion language model for digital twin simulations.
+* **[OpenLog](https://open-log.vercel.app/)** — Open-source, AI-native release manager that turns raw commits into polished changelogs.
+* **[Quack](https://github.com/PratikRai0101/Quack)** — Your AI-powered Rubber Duck. A terminal companion in Rust that explains errors and suggests fixes without breaking flow.
+* **[Enduride](https://github.com/PratikRai0101/Enduraverse/tree/main/Enduraverse-2025/Team-E-Synapse)** — IoT telematics solution reducing crash alert delays to <5s using Arduino & Solidity.
+* **[Evo2 Variant Analysis](https://evo2-variant-analysis-bnb.vercel.app/)** — Decentralized genomic research using Google's Evo 2 model and BNB Testnet.
 
-### Key Projects
-* **[OpenLog](https://open-log.vercel.app/)** – An open-source, AI-native release manager that turns raw commits into polished changelogs.
-* **[Quack](https://github.com/PratikRai0101/Quack)** – Your AI-powered Rubber Duck. A terminal companion that explains errors, suggests fixes, and helps you debug without breaking flow. Written in Rust.
-* **[Enduride](https://github.com/PratikRai0101/Enduraverse/tree/main/Enduraverse-2025/Team-E-Synapse)** – A ₹1,139 IoT telematics solution reducing crash alert delays to <5s using Arduino & Solidity.
-* **[Evo2 Variant Analysis](https://evo2-variant-analysis-bnb.vercel.app/)** – Decentralized genomic research using Google's Evo 2 model and BNB Testnet.
-* **[DIMO (Roro Birds & Zebra Swap)](https://github.com/raipratik0101)** – Built NFT-based tournament logic and zkSync validation for 1,000+ users.
+◆ **achievements & leadership**
+* **Synapse Lead** — Leading a decorated team of SIH Finalists.
+* **Hackathon Veteran** — Winner of Enduraverse (₹100K), HackGenX, SVPCET Hack-A-Thon, and BNB Hack Kerala. Finalist in 15+ national events.
+* **IEEE CS @ YCCE** — Vice Chair, leading a community of 300+ members.
+* **Codeware** — Chairperson.
 
----
+◆ **building from zero**
+I operate at the intersection of scalable engineering and foundational technology. Whether orchestrating local LLMs or building decentralized logic, my focus is on high-performance infrastructure. I live in the terminal—my daily workflow is heavily optimized for speed and system-level control on Omarchy and Hyprland. I care about shipping robust systems, not technology debates.
 
-### 🐧 The Daily Driver (Arch BTW)
-I live in the terminal. My workflow is optimized for speed and system-level control:
-* **OS:** Arch Linux 
-* **WM:** Hyprland 
-* **Environment:** Heavily customized dots focused on performance and minimalism.
-
-<br>
-
-<h3 align="center">Contribution Arena</h3>
-<div align="center">
-  <img src="gh-space-shooter.gif" alt="GitHub Space Shooter" width="100%">
-</div>
-
-<br>
-
-<h3 align="center">🛠️ Tech Arsenal</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120"><b>Languages</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120"><b>Frameworks</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120"><b>Tools & Infra</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-        <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <i>"Everything is a bubble if you are are brave enough to burst it!"</i>
-</div>
+◆ **currently exploring**
+* **Systems programming:** Deep diving into Rust, C++, and building high-performance CLI tools.
+* **AI/ML integration:** Researching local Large Language Models (Qwen, Codex) and agentic frameworks.
+* **Aerospace & Semiconductors:** Laying the academic and technical groundwork for long-term ambitions in private space infrastructure.

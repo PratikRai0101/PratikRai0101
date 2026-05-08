@@ -35,3 +35,9 @@ I operate at the intersection of scalable engineering and foundational technolog
 * **Systems programming:** Deep diving into Rust, C++, and building high-performance CLI tools.
 * **AI/ML integration:** Researching local Large Language Models (Qwen, Codex) and agentic frameworks.
 * **Aerospace & Semiconductors:** Laying the academic and technical groundwork for long-term ambitions in private space infrastructure.
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PratikRai0101&style=flat-square&color=363636&label=profile+views" alt="Profile Views" />
+</div>

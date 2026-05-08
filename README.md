@@ -14,8 +14,7 @@
 * rust · python · c++ · typescript · solidity · go 
 
 ◆ **current work**
-* **[NeoSwarm](#)** — Developing a local-first AI agent orchestrator featuring a multi-agent system and GitHub OAuth integration.
-* **[ThinkDiff-SLM](#)** — Co-authoring research on a 1B-parameter masked diffusion language model for digital twin simulations.
+* **[NeoSwarm](https://github.com/PratikRai0101/neoswarm)** — Developing a local-first AI agent orchestrator featuring a multi-agent system and GitHub OAuth integration.
 * **[OpenLog](https://open-log.vercel.app/)** — Open-source, AI-native release manager that turns raw commits into polished changelogs.
 * **[Quack](https://github.com/PratikRai0101/Quack)** — Your AI-powered Rubber Duck. A terminal companion in Rust that explains errors and suggests fixes without breaking flow.
 * **[Enduride](https://github.com/PratikRai0101/Enduraverse/tree/main/Enduraverse-2025/Team-E-Synapse)** — IoT telematics solution reducing crash alert delays to <5s using Arduino & Solidity.

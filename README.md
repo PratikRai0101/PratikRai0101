@@ -13,7 +13,7 @@
 ---
 
 ◆ **my usual stack**
-* rust · python · c++ · typescript · solidity · go 
+* rust · python · c++ · typescript · solidity · go · react native 
 
 ◆ **current work**
 * **[NeoSwarm](https://github.com/PratikRai0101/neoswarm)** — Developing a local-first AI agent orchestrator featuring a multi-agent system and GitHub OAuth integration.

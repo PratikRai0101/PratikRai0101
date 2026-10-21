@@ -24,8 +24,10 @@ Based in Nagpur, India. Open to 2027 new-grad and internship roles in AI systems
 - **[NeoSwarm](https://github.com/PratikRai0101/neoswarm)** — a local multi-agent orchestrator: a team-lead agent delegates to parallel workers through a Python runtime, with desktop and terminal interfaces.
 - **[Varq](https://github.com/PratikRai0101/Varq)** — a native macOS e-reader for EPUB, PDF and CBZ. Books, reading progress, highlights and notes stay on your machine.
 - **[LocalCanvas](https://github.com/PratikRai0101/LocalCanvas)** — an offline Excalidraw whiteboard for macOS, with portable drawings and atomic file saves through Rust.
+- **[OpenLog](https://github.com/PratikRai0101/open-log)** — an AI-native release manager: select commits, draft a changelog with Groq, edit it in BlockNote, and publish to GitHub Releases.
+- **[Evo2 Variant Analysis](https://github.com/PratikRai0101/Evo2_Variant_Analysis_BNB)** — genomic variant analysis with Evo 2, serverless GPU inference and BNB Chain. BNB Hack Kerala winner.
 
-Also: [OpenLog](https://github.com/PratikRai0101/open-log), [AgentReady Commerce](https://github.com/PratikRai0101/agentready-commerce), and [Evo2 Variant Analysis](https://github.com/PratikRai0101/Evo2_Variant_Analysis_BNB). [Demos & case studies →](https://www.pratikrai.dev/work)
+[Demos & case studies →](https://www.pratikrai.dev/work)
 
 ◆ **open source**
 

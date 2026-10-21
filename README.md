@@ -37,8 +37,7 @@ Also: [OpenLog](https://github.com/PratikRai0101/open-log), [AgentReady Commerce
 
 Co-author of **[ThinkDiff-SLM](https://www.pratikrai.dev/research/thinkdiff-slm)**, published in IEEE TENCON 2026: a proposed masked-diffusion language model for digital twins and edge chatbots. Performance figures are projections; experimental validation is ongoing.
 
-- **2nd place, TrackShift 2026** — built an [F1 telemetry replay and AI race engineer](https://github.com/PratikRai0101/synapse-trackshift2026) for the Mphasis × TGR Haas F1 Team challenge.
-- **Five hackathon wins** — Enduraverse, BNB Hack Kerala, HackGenX, SVPCET and L&T Createch. SIH 2025 finalist.
+- **8 hackathon wins & podiums** — including Enduraverse, BNB Hack Kerala, HackGenX, SVPCET, L&T Createch, and [TrackShift 2026](https://github.com/PratikRai0101/synapse-trackshift2026) (2nd place, Mphasis × TGR Haas F1 Team; F1 telemetry replay and AI race engineer). SIH 2025 finalist.
 - **Community** — Chairperson at Codeware and Vice Chair of IEEE Computer Society at YCCE.
 
 ◆ **how i work**
@@ -46,3 +45,9 @@ Co-author of **[ThinkDiff-SLM](https://www.pratikrai.dev/research/thinkdiff-slm)
 Write a tight spec, build with coding agents, review the diffs, and test the behavior. I use pi, monocode and opencode, but keep responsibility for what ships. Usually working in Python, TypeScript, Swift or Rust.
 
 Outside code: Formula 1, motorsport telemetry, and aerospace.
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PratikRai0101&style=flat-square&color=363636&label=profile+views" alt="Profile Views" />
+</div>
